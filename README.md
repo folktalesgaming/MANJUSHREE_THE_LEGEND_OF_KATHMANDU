@@ -11,14 +11,9 @@ This game is inspired by the folklore/legend that is pretty famous in NEPAL, abo
 > 
 > While the game is inspired by the folklore of the manjushree, it is a fantasy genre game and alot of new elements are being added or removed to make the game more enjoyable and playable.
 
-> [!Warning]
->
-> While there are alot of things the legend suggest I have decided to cut some details to prevent storyline bloating and other reasons
-
-
 ### ESTIMATED DEADLINE
 
-**AUG 22 2025** 
+**AUG 22 2026** 
 
 > [!Note]
 >
